@@ -1,6 +1,6 @@
 {
   "name": "@mrwhale-io/mrwhale",
-  "private": true,
+  "private": false,
   "workspaces": [
     "packages/*"
   ],
